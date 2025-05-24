@@ -11,18 +11,12 @@
   </a> 
 </p>
 
-- 💎 How to reach me **raviravi925016@gmail.com**
+- 💎 How to reach me: **raviravi925016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ravi _ravi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi _ravi" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/raviravi82858130" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raviravi82858130" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/i__ravi23/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__ravi23" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ravi-kumar-53b5402b0/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Kumar" height="30" width="40" />
   </a>
 </p>
 
